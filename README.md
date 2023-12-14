@@ -32,6 +32,7 @@
 
 ###
 
+<img allign="center" src="anime.png" alt="anime girl">
 <!--
 **MaiTheTranh/MaiTheTranh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
